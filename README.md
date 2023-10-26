@@ -1,3 +1,3 @@
 # odin-recipes
 
-Creating a recipe webiste. I am going to have my favorite famous receipes listed.
+Creating a recipe website. I am going to have my favorite famous recipes listed.
