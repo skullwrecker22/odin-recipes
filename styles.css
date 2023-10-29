@@ -1,0 +1,29 @@
+*{
+    font-size: 20px;
+    font-family: "Times New Roman", sans-serif;
+    background: beige;
+}
+
+#title{
+    font-size: 60px;
+    color: red;
+    text-align: center;
+}
+
+.recipe-list{
+    text-align:center;
+    list-style-type:disc;
+    color: red;
+    background: yellow;
+}
+
+.button{
+    object-position: center;
+    text-decoration-line: none;
+    border: none;
+    padding: 20px;
+    background-color: lightblue;
+    border-radius: 300px;
+    text-align:center;
+    font-size: 16px;
+}
